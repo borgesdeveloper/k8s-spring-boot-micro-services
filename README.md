@@ -1,12 +1,12 @@
-#
-<img src="https://kubernetes.io/images/nav_logo.svg" width="200">
-<img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" width="200">  
+<img src="https://kubernetes.io/images/nav_logo.svg" width="200"> 
+<img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" width="200"> 
 <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="140">  
 
-#
+
+## Kubernetes deployment and micro-services spring boot for DigitalOcean
 
 
-# Kubernetes deployment and micro-services spring boot for DigitalOcean
+
 
 [![License](https://img.shields.io/badge/License-MIT-silver.svg?style=flat)](https://github.com/clips/pattern/blob/master/LICENSE.txt) 
 [![License](https://img.shields.io/badge/Java-15-red.svg?style=flat)](https://github.com/clips/pattern/blob/master/LICENSE.txt) 
