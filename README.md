@@ -1,6 +1,7 @@
 #
-<img src="https://kubernetes.io/images/nav_logo.svg" width="250">
-<img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" width="250">  
+<img src="https://kubernetes.io/images/nav_logo.svg" width="200">
+<img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" width="200">  
+<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="160">  
 
 #
 
