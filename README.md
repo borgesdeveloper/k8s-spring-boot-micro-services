@@ -1,7 +1,6 @@
 #
-
+<img src="https://kubernetes.io/images/nav_logo.svg" width="250">
 <img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" width="250">  
-<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="50">
 
 #
 
