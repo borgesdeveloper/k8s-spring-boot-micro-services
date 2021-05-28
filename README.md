@@ -40,7 +40,7 @@ $  kubectl apply -f ./k8s-deployments/deployments  --kubeconfig=./k8s-deployment
 ```
 
 
-view pods:
+view backend ingressed:
 
 ```sh
 $  kubectl describe ingress --kubeconfig=./k8s-deployments/config/YOUR_CONFIG.yaml 
