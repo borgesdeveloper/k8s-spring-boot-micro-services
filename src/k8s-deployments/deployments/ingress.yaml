@@ -24,3 +24,11 @@ spec:
             name: app1
             port:
               number: 80
+
+      - path: /consumers
+        pathType: Prefix
+        backend:
+          service:
+            name: app2
+            port:
+              number: 80
